@@ -1,0 +1,10 @@
+chipwhisperer==5.5.2
+hexdump
+jupyter==1.0.0
+matplotlib
+pandas==1.4.1
+pyusb==1.2.1
+PyVISA==1.11.3
+pyvisa-py==0.5.2
+tqdm
+tabulate==0.8.9
